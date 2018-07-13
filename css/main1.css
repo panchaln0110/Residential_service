@@ -110,6 +110,9 @@ section {
 .mb-40 {
     margin-bottom: 40px;
 }
+.mb-80{
+    margin-bottom: 60px;
+}
 
 .mb-30 {
     margin-bottom: 30px;
@@ -632,6 +635,12 @@ button.btn.btn-secondary.dropdown-toggle{
     background-size: cover;
 }
 
+#l-banner-Businessphone {
+    height: 100%;
+    background: url(../images/business_mobile_header.png) center;
+    background-size: cover;
+}
+
 
 #l-banner-pack {
     height: 100%;
@@ -642,7 +651,8 @@ button.btn.btn-secondary.dropdown-toggle{
 .l-banner-position {
     margin-top: 210px;
 }
-.position-Bp{
+
+.position-Bp {
     margin-top: 21px;
     margin-bottom: 210px;
 }
@@ -976,6 +986,9 @@ div.col-sm-2.col-6 {
     #agents > .container {
         max-width: 730px;
     }
+    #fourcolumns > div.container{
+        max-width: 1460px;
+    }
 
 }
 
@@ -1006,6 +1019,12 @@ div.col-sm-2.col-6 {
     }
     .mt--40 {
         margin-top: -80px!important;
+    }
+     .mt-20{
+        margin-top: 20px!important;
+    }
+    .dps-infographic {
+        width: 40%;
     }
 
     /*    pc width home phone banner h1*/
@@ -1103,6 +1122,11 @@ div.col-sm-2.col-6 {
     #l-banner-Homephone {
         height: 100%;
         background: url(../images/Homephone_desktop.png) center;
+        background-size: cover;
+    }
+    #l-banner-Businessphone {
+        height: 100%;
+        background: url(../images/business_desktop_header.png) center;
         background-size: cover;
     }
 
@@ -1225,6 +1249,9 @@ div.col-sm-2.col-6 {
     }
     
 */
+    .mt-20{
+        margin-top: 20px!important;
+    }
     .d-Tblock {
         display: none;
     }
@@ -1236,6 +1263,9 @@ div.col-sm-2.col-6 {
     }
     .w-hpb-text {
         max-width: 385px;
+    }
+    .dps-infographic {
+        width: 70%;
     }
     /*    reliance Home comfort check available button*/
     .change-position {
@@ -1264,6 +1294,7 @@ div.col-sm-2.col-6 {
     .mt--40 {
         margin-top: -80px!important;
     }
+   
 
     /*refer-friend*/
     .refer-friend-text-position {
@@ -1341,6 +1372,11 @@ div.col-sm-2.col-6 {
     #l-banner-Homephone {
         height: 100%;
         background: url(../images/Homephone_tablet.png) center;
+        background-size: cover;
+    }
+    #l-banner-Businessphone {
+        height: 100%;
+        background: url(../images/business_tablet_header.png) center;
         background-size: cover;
     }
 
@@ -1463,6 +1499,16 @@ div.col-sm-2.col-6 {
 
     }
 */
+    .dps-infographic{
+        width: 20%;
+    }
+    .mt-0{
+        margin-top: 0px;
+    }
+    
+    .plus{
+        width: 10%;
+    }
     .d-hide {
         display: none;
     }
@@ -1487,7 +1533,7 @@ div.col-sm-2.col-6 {
     .mt-20 {
         margin-top: 20px;
     }
-    .mtt-40{
+    .mtt-40 {
         margin-top: 40px;
     }
 
