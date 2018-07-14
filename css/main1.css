@@ -1014,6 +1014,15 @@ div.col-sm-2.col-6 {
     .wdt-60 {
         width: 20%;
     }
+    .align-l{
+        position: relative;
+        left: 110px;
+    }
+    .align-r{
+        position: relative;
+        right: 110px;
+    }
+    
     .w-60 {
         width: 40%;
     }
